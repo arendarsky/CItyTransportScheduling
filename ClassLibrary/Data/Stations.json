@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "Name": "West Kensington"
+  },
+  {
+    "Id": 2,
+    "Name": "Earl's Court"
+  },
+  {
+    "Id": 3,
+    "Name": "South Kensington"
+  },
+  {
+    "Id": 4,
+    "Name": "Sloane Square"
+  },
+  {
+    "Id": 5,
+    "Name": "Hammersmith"
+  },
+  {
+    "Id": 6,
+    "Name": "Barons Court"
+  },
+  {
+    "Id": 7,
+    "Name": "High Street Kensington"
+  },
+  {
+    "Id": 8,
+    "Name": "Edgware Road"
+  },
+  {
+    "Id": 9,
+    "Name": "Bayswater"
+  },
+  {
+    "Id": 10,
+    "Name": "Notting Hill Gate"
+  },
+  {
+    "Id": 11,
+    "Name": "Embankment"
+  },
+  {
+    "Id": 12,
+    "Name": "London Heathrow"
+  },
+  {
+    "Id": 13,
+    "Name": "Green Park"
+  }
+]

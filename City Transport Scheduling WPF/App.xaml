@@ -1,0 +1,31 @@
+﻿<Application x:Class="City_Transport_Scheduling_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:City_Transport_Scheduling_WPF"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="DimGray"/>
+        </Style>
+        <Style TargetType="local:MainWindow">
+            <Setter Property="Background" Value="DimGray"/>
+        </Style>
+        <Style TargetType="local:AuthorizationWindow">
+            <Setter Property="Background" Value="DarkSlateGray"/>
+        </Style>
+        <Style TargetType="local:FavoritesWindow">
+            <Setter Property="Background" Value="DarkSlateGray"/>
+        </Style>
+        <Style TargetType="local:RegisterWindow">
+            <Setter Property="Background" Value="DarkSlateGray"/>
+        </Style>
+        <Style TargetType="local:AddFavoriteWindow">
+            <Setter Property="Background" Value="DarkSlateGray"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="LightSlateGray"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+    </Application.Resources>
+</Application>

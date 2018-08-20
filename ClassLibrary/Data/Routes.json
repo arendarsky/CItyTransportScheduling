@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 0,
+    "Name": "Piccadilly line",
+    "StartTime": 300,
+    "EndTime": 60,
+    "Interval": 5,
+    "Stations": [
+      {
+        "Id": 0,
+        "StationId": 12,
+        "TimeFromOrigin": 0,
+        "TimeFromDest": 37
+      },
+      {
+        "Id": 0,
+        "StationId": 5,
+        "TimeFromOrigin": 20,
+        "TimeFromDest": 17
+      },
+      {
+        "Id": 0,
+        "StationId": 6,
+        "TimeFromOrigin": 22,
+        "TimeFromDest": 15
+      },
+      {
+        "Id": 0,
+        "StationId": 2,
+        "TimeFromOrigin": 25,
+        "TimeFromDest": 12
+      },
+      {
+        "Id": 0,
+        "StationId": 3,
+        "TimeFromOrigin": 27,
+        "TimeFromDest": 10
+      },
+      {
+        "Id": 0,
+        "StationId": 13,
+        "TimeFromOrigin": 37,
+        "TimeFromDest": 0
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "Name": "District line",
+    "StartTime": 360,
+    "EndTime": 120,
+    "Interval": 7,
+    "Stations": [
+      {
+        "Id": 0,
+        "StationId": 6,
+        "TimeFromOrigin": 0,
+        "TimeFromDest": 17
+      },
+      {
+        "Id": 0,
+        "StationId": 1,
+        "TimeFromOrigin": 2,
+        "TimeFromDest": 15
+      },
+      {
+        "Id": 0,
+        "StationId": 2,
+        "TimeFromOrigin": 5,
+        "TimeFromDest": 12
+      },
+      {
+        "Id": 0,
+        "StationId": 3,
+        "TimeFromOrigin": 7,
+        "TimeFromDest": 10
+      },
+      {
+        "Id": 0,
+        "StationId": 11,
+        "TimeFromOrigin": 17,
+        "TimeFromDest": 0
+      }
+    ]
+  }
+]
